@@ -1,7 +1,7 @@
 # syn_net_CVA is a novel network-based framework for synergistic ingredients discovery from herb medicines
 
 <p align="center">
-  <img src="Figure1.png" alt="Overview Figure" width="800">
+  <img src="Fig.1.png" alt="Overview Figure" width="800">
   <br>
   <em>Overview of our network models. (A) Systematic comparison of five prescriptions for CVA on their therapeutic targets. (B) Identify synergistic ingredients of CVA prescriptions through a comprehensive combination landscape (C) Experimental validation of synergistic ingredients.</em>
 </p>
