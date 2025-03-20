@@ -3,7 +3,7 @@
 <p align="center">
   <img src="Figure1.png" alt="Overview Figure" width="800">
   <br>
-  <em>Overview of our network models. (A) Systematic comparison of five prescriptions for CVA on their therapeutic targets. (B) Identify synergistic ingredients of CVA prescriptions through a comprehensive combination landscape (C) Experimental validation of synergistic ingredients.</em>
+  <em>Overview of network framework. (A) Systematic comparison of five prescriptions for CVA on their therapeutic targets. (B) Identify synergistic ingredients of CVA prescriptions through a comprehensive combination landscape (C) Experimental validation of synergistic ingredients.</em>
 </p>
 
  Herbal medicine presents a promising alternative, offering enhanced synergistic efficacy and reduced side effects through combined herbal formulations. 
